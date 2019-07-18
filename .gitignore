@@ -46,3 +46,14 @@ phpunit.phar
 # NPM packages
 /node_modules
 .env
+
+
+backend/web/index-test.php
+backend/web/index.php
+backend/web/robots.txt
+frontend/web/index-test.php
+frontend/web/index.php
+frontend/web/robots.txt
+yii
+yii_test
+yii_test.bat
